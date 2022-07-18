@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Shukla
 - 👀 I’m interested in Coding languages
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on my Instagram: https://www.instagram.com/adi.shukla_03/
 
